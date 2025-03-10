@@ -1,3 +1,5 @@
+
+
 from tabulate import tabulate
 
 dados = [
